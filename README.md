@@ -1,2 +1,4 @@
 # Mini-JSON-project
-Reads JSON file into Python and cpmlete three assignments using Python: provides the workflow step by step, visualisation and tables
+### Reads JSON file into Python and cpmlete three assignments using Python: provides the workflow step by step, visualisation and tables
+
+JavaScript objective Notation (JSON) is a file format that uses human-readerable text to transmit data object.  In this project we first read and tabulate a JSON file that consist of the information regarding World Bank Projects.  Then we extract a summary table and bar chart of ten countries with most projects.  Next, we analyse data to find the popular project themes - the column of the interest (or 'mjtheme_codename') has an hierarchical structure. Using for-loops, we investigate the distribution of missingness, summarise our requrements and derive summary table of ten most popular project themes with a bar plot to make easy to understand.  In the same manner, we implement the missing names with appropreate values.
